@@ -9,7 +9,7 @@ body {
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 span.menu-text {
-  color: #83af9b;
+  color: gray;
 }
 .abtmeimg {
   border-radius: 13%;
@@ -478,7 +478,7 @@ div .OGB:hover {
   color: #343a40;
 }
 .site-navbar .site-navigation .site-menu .has-children .dropdown a.active {
-  color: #83af9b;
+  color: #e8c547;
 }
 .site-navbar .site-navigation .site-menu .has-children .dropdown .active > a {
   color: #fff !important;
@@ -678,14 +678,14 @@ div .OGB:hover {
 }
 .site-mobile-menu .site-nav-wrap a.active,
 .site-mobile-menu .site-nav-wrap a:hover {
-  color: #83af9b;
+  color: #e8c547;
 }
 .site-mobile-menu .site-nav-wrap li {
   position: relative;
   display: block;
 }
 .site-mobile-menu .site-nav-wrap li.active > a {
-  color: #83af9b;
+  color: #e8c547;
 }
 .site-mobile-menu .site-nav-wrap .arrow-collapse {
   position: absolute;
