@@ -27,6 +27,9 @@ span.icon-menu.h3::before {
   background: #000;
   color: #fff;
 }
+a.readmore {
+  color: #83af9b !important;
+}
 
 a {
   -webkit-transition: 0.3s all ease;
@@ -153,6 +156,17 @@ h6 {
   border-radius: 0;
   border: 1px solid #f6f6f6;
 }
+.modalImages {
+  display: block;
+  width: auto;
+  max-height: 100%;
+}
+.img-responsive-height {
+  display: block;
+  width: auto;
+  max-height: 100%;
+}
+
 .form-control:active,
 .form-control:focus {
   border-color: #83af9b;
